@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Image } from 'react-native';
+import { ImageBackground as Image } from 'react-native';
 import applyScale from './applyScale';
 
 export default class ResponsiveImage extends Component {
